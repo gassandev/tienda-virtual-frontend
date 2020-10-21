@@ -1,2 +1,2 @@
 # tienda-virtual-frontend
-tienda virtual
+https://gassandev.github.io/tienda-virtual-frontend/
